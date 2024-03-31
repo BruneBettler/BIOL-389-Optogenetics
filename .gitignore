@@ -2,3 +2,4 @@ plots/.DS_Store
 plots/archive/
 .idea/
 .DS_Store
+Data/__pycache__/
